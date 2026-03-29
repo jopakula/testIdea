@@ -1,8 +1,13 @@
 fun main() {
-testFun()
+    testFun()
+    testFun2()
 }
 
 
-fun testFun(){
-    println("Hello World")
+fun testFun() {
+    print("Hello World ")
+}
+
+fun testFun2() {
+    println("пидарасы")
 }
